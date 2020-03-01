@@ -1,0 +1,6 @@
+Steps to Create Team Generator
+    1. Install NPM
+    2. Install Jest
+    3. Create Several HTML Templates
+    4. Create a class function and extend to several subclasses for the different employee types
+    5. I will need to run tests as I create the employees 
