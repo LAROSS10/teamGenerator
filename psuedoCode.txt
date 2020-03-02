@@ -1,5 +1,6 @@
 Steps to Create Team Generator
     1. Install NPM
+    -questions for TA or tutor, got some weird messages but last line of code was 0 vulnerabilities,does that mean it loaded ok?
     2. Install Jest
     3. Create Several HTML Templates
     4. Create a class function and extend to several subclasses for the different employee types
